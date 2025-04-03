@@ -27,6 +27,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/textview2"/>
     <Button
+        android:id="@+id/btntimthietbi"
         android:layout_width="409dp"
         android:layout_height="67dp"
         android:layout_marginTop="44dp"
